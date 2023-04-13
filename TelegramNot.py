@@ -1,6 +1,6 @@
 import telebot
 
-TOKEN='6058694274:AAFEUpQQfVE4_Wsy_HQMGuQAJwFUhz-_RmM'
+TOKEN='----'
 bot = telebot.TeleBot(TOKEN)
 MY_LIST=('36','37','38','39','40','41','42','43','44','45','S','M','L','XL','XXL')
 
